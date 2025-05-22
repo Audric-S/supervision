@@ -6,7 +6,7 @@
 # -------------------------
 # 🔧 Configuration utilisateur (à modifier si besoin)
 # -------------------------
-VM2_IP="192.168.56.102"   # 👉 Remplace par l'adresse IP réelle de ta VM2
+VM2_IP="172.16.240.130"   # 👉 Remplace par l'adresse IP réelle de ta VM2
 
 # -------------------------
 # 📁 Préparation de l’environnement
